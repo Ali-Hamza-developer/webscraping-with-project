@@ -46,7 +46,7 @@ In this notebook, we:
 
 > Graphs comparing AMD's stock price history with its quarterly revenue over time.
 
-*(You can optionally insert an image here if you want to display a screenshot or chart)*
+![image alt](https://github.com/Ali-Hamza-developer/Stock-and-Revenue-Analysis/blob/main/Picture.png?raw=true)
 
 ---
 
