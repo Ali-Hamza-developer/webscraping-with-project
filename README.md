@@ -1,4 +1,4 @@
-# 📊 Web Scraping & Data Projects  
+# 📊 Web Scraping &  Projects  
 
 This repository contains a collection of **Python mini-projects** focused on data extraction, analysis, and visualization. It was developed as part of the *"Python Project for Data Science"* course offered by IBM on Coursera.  
 
