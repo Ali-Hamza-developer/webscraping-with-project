@@ -6,6 +6,15 @@ Each project demonstrates practical skills in **web scraping, data analysis with
 
 ---
 
+## 📷 Sample Output  
+
+From the **Final Project (AMD Case Study):**  
+
+![AMD Analysis](https://github.com/Ali-Hamza-developer/Stock-and-Revenue-Analysis/blob/main/Picture.png?raw=true)  
+
+---
+
+
 ## 📁 Contents include 
 
 1. **Web Scraping**  
@@ -37,15 +46,7 @@ Each project demonstrates practical skills in **web scraping, data analysis with
 - `BeautifulSoup`  
 - `requests`  
 
----
 
-## 📷 Sample Output  
-
-From the **Final Project (AMD Case Study):**  
-
-![AMD Analysis](https://github.com/Ali-Hamza-developer/Stock-and-Revenue-Analysis/blob/main/Picture.png?raw=true)  
-
----
 
 ## 👨‍💻 Author  
 
