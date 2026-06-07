@@ -33,7 +33,8 @@ From the **Final Project (AMD Case Study):**
    - Combined **yfinance + web scraping** to analyze **Advanced Micro Devices (AMD)**.  
    - Scraped quarterly revenue data from financial sites.  
    - Compared revenue trends against historical stock prices using `matplotlib`.  
-   - Showcased a **real-world data science workflow**: extraction → cleaning → visualization.  
+   - Showcased a **real-world data science workflow**: 
+   - extraction → cleaning → visualization.  
 
 ---
 
